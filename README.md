@@ -1,143 +1,82 @@
-Business Performance Dashboard
-Overview
+Business Performance Dashboard | Excel
 
-The Business Performance Dashboard is an Excel-based analytics project designed to analyze sales, costs, profits, customer performance, and business trends over multiple years. The dashboard leverages Excel features such as Pivot Tables, Lookup Functions, and interactive reporting to provide valuable business insights.
+📌 Project Overview
 
-Project Objectives
-Analyze overall business performance.
-Track sales, profit, and cost metrics.
-Evaluate customer segmentation performance.
-Compare yearly and monthly trends.
-Demonstrate advanced Excel functions and lookup techniques.
-Create an interactive dashboard for business decision-making.
-Workbook Structure
-1. Dashboard
+The Business Performance Dashboard is an interactive Excel dashboard designed to analyze business sales performance and generate meaningful insights from retail sales data.
 
-Interactive visualization sheet containing key business metrics and summary insights. Designed to provide stakeholders with a quick overview of performance indicators.
+The project uses Excel features such as Pivot Tables, Pivot Charts, Slicers, and advanced formulas to monitor key performance indicators (KPIs), identify sales trends, and evaluate product and business performance.
 
-2. PIVOT
+🎯 Project Objectives
 
-Contains Pivot Tables used for:
+- Analyze overall business and sales performance.
+- Track important business KPIs.
+- Identify top-performing products and categories.
+- Analyze sales trends and patterns.
+- Make data-driven business decisions through interactive visualizations.
 
-Sales Analysis
-Profit Analysis
-Cost Analysis
-Customer Status Performance
-Year-wise Performance
-Month-wise Performance
+🛠️ Tools & Technologies
 
-Customer categories analyzed include:
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- XLOOKUP
+- SUMIFS
+- COUNTIFS
+- Data Cleaning and Formatting
 
-Gold
-Silver
-Platinum
-3. Functions & LOOKUPS
+📊 Dataset
 
-Demonstrates Excel formulas and business calculations, including:
+The project uses retail sales data containing 10,000+ records.
 
-SUM
-SUMIF
-VLOOKUP
-XLOOKUP
+The dataset includes information such as:
 
-Lookup examples retrieve:
+- Customer ID
+- Order ID
+- Order Date
+- Delivery Date
+- Product ID
+- Product Name
+- Product Category
+- Quantity
+- Total Retail
+- Cost Price per Unit
+- Total Cost
+- Profit
 
-Customer Cost
-Customer Sales
-Customer Profit
-Customer Status by Order ID
-4. Orders
+📈 Key Performance Indicators (KPIs)
 
-Raw transactional dataset containing:
+The dashboard tracks key business metrics, including:
 
-Customer ID
-Customer Status
-Order Date
-Delivery Date
-Order ID
-Product ID
-Quantity
-Retail Price
-Unit Cost
-Total Cost
-Profit
-Year
-Month
-Month Name
-Key Business Metrics
-Overall Performance
-Metric	ValueTotal Sales	25,641,503.31
-Total Profit	13,618,411.99
-Total Cost	12,023,091.32
+- Total Sales
+- Total Orders
+- Total Quantity Sold
+- Total Cost
+- Total Profit
 
-Based on aggregated Pivot Table analysis.
+📊 Dashboard Features
 
-Yearly Analysis
+- Interactive dashboard with Pivot Charts and Slicers.
+- KPI cards for monitoring business performance.
+- Sales analysis by product and category.
+- Trend analysis to understand business performance over time.
+- Dynamic filtering for exploring different business segments.
+- Clear visual representation of key business metrics.
 
-The dataset covers business transactions from:
+🔍 Key Insights
 
-2017
-2018
-2019
-2020
-2021
-Top Performing Year
+The dashboard helps users:
 
-2021
+- Identify top-performing products and categories.
+- Understand sales and profit trends.
+- Monitor overall business performance.
+- Compare product and category performance.
+- Identify areas that require business improvement.
 
-Sales: 5,936,507.65
-Profit: 3,151,000.42
+💡 Business Value
 
-2021 recorded the highest sales and profit among the analyzed years.
+This project demonstrates how Microsoft Excel can be used as a Business Intelligence tool to transform raw sales data into meaningful insights, support performance monitoring, and improve data-driven decision-making.
 
-Monthly Analysis
+👨‍💻 Author
 
-The workbook includes monthly performance tracking from January through December.
-
-Highlights
-
-Highest Monthly Sales: December
-
-3,384,469.64
-
-Highest Monthly Profit: June
-
-1,557,098.81
-Dataset Summary
-Attribute	DescriptionData Type	Transactional Sales Data
-Time Period	2017–2021
-Customer Segments	Gold, Silver, Platinum
-Orders	185,013
-Quantity Sold	309,276
-Excel Skills Demonstrated
-Data Analysis
-Pivot Tables
-Aggregations
-Business KPI Calculation
-Lookup Functions
-VLOOKUP
-XLOOKUP
-Mathematical Functions
-SUM
-SUMIF
-Dashboard Development
-KPI Reporting
-Trend Analysis
-Customer Segmentation Analysis
-Interactive Business Reporting
-Business Insights
-Customer segmentation helps identify valuable customer groups.
-Profitability can be tracked across years and months.
-Seasonal trends can be identified using monthly sales analysis.
-Lookup functions improve data retrieval and reporting efficiency.
-Pivot Tables simplify large-scale data analysis and dashboard creation.
-Tools Used
-Microsoft Excel
-Pivot Tables
-Lookup Functions (VLOOKUP, XLOOKUP)
-Dashboard Design Techniques
-Data Aggregation and Analysis Methods
-
-Project Outcome
-
-This project demonstrates how Microsoft Excel can be used as a powerful Business Intelligence tool to transform raw transactional data into actionable insights through dashboards, Pivot Tables, and advanced formulas.
+Created as part of my Data Analyst and Business Intelligence portfolio to demonstrate practical Excel skills and business data analysis.
