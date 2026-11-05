@@ -1,12 +1,12 @@
 Business Performance Dashboard | Excel
 
-📌 Project Overview
+Project Overview
 
 The Business Performance Dashboard is an interactive Excel dashboard designed to analyze business sales performance and generate meaningful insights from retail sales data.
 
 The project uses Excel features such as Pivot Tables, Pivot Charts, Slicers, and advanced formulas to monitor key performance indicators (KPIs), identify sales trends, and evaluate product and business performance.
 
-🎯 Project Objectives
+Project Objectives
 
 - Analyze overall business and sales performance.
 - Track important business KPIs.
@@ -14,7 +14,7 @@ The project uses Excel features such as Pivot Tables, Pivot Charts, Slicers, and
 - Analyze sales trends and patterns.
 - Make data-driven business decisions through interactive visualizations.
 
-🛠️ Tools & Technologies
+Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
@@ -25,7 +25,7 @@ The project uses Excel features such as Pivot Tables, Pivot Charts, Slicers, and
 - COUNTIFS
 - Data Cleaning and Formatting
 
-📊 Dataset
+Dataset
 
 The project uses retail sales data containing 10,000+ records.
 
@@ -44,7 +44,7 @@ The dataset includes information such as:
 - Total Cost
 - Profit
 
-📈 Key Performance Indicators (KPIs)
+Key Performance Indicators (KPIs)
 
 The dashboard tracks key business metrics, including:
 
@@ -54,7 +54,7 @@ The dashboard tracks key business metrics, including:
 - Total Cost
 - Total Profit
 
-📊 Dashboard Features
+Dashboard Features
 
 - Interactive dashboard with Pivot Charts and Slicers.
 - KPI cards for monitoring business performance.
@@ -63,7 +63,7 @@ The dashboard tracks key business metrics, including:
 - Dynamic filtering for exploring different business segments.
 - Clear visual representation of key business metrics.
 
-🔍 Key Insights
+Key Insights
 
 The dashboard helps users:
 
@@ -73,10 +73,10 @@ The dashboard helps users:
 - Compare product and category performance.
 - Identify areas that require business improvement.
 
-💡 Business Value
+Business Value
 
 This project demonstrates how Microsoft Excel can be used as a Business Intelligence tool to transform raw sales data into meaningful insights, support performance monitoring, and improve data-driven decision-making.
 
-👨‍💻 Author
+Author
 
 Created as part of my Data Analyst and Business Intelligence portfolio to demonstrate practical Excel skills and business data analysis.
